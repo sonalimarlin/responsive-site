@@ -402,7 +402,7 @@ footer {
 	background-size: cover;
 	background-position: center;
 	padding: 10em 0;
-	color: #232323;
+	color: #fff;
 }
 
 @media (min-width: 60rem) {
