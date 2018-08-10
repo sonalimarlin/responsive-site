@@ -130,7 +130,7 @@ p:last-of-type {
 	}
 
 	.title {
-		font-size: 3.7rem; 
+		font-size: 3.7rem;
 	}
 }
 
@@ -447,12 +447,12 @@ footer {
 	.skills p {
 	text-align: left;
 	padding-left: 2.5em;
-	padding-right: 2.5em;	
+	padding-right: 2.5em;
 	}
 }
 
 @media (min-width: 25rem) {
-	
+
 	.skills h1 {
 		padding-left: .5rem;
 	}
@@ -477,4 +477,14 @@ footer {
 		width: 33.3333334%;
 		overflow: hidden;
 	}
+}
+
+.experience {
+	text-align: left;
+	margin: 2em;
+	padding: 5px;
+}
+
+.experience h2 {
+		margin-left: 0em;
 }
