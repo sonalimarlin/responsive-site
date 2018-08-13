@@ -488,3 +488,10 @@ footer {
 .experience h2 {
 		margin-left: 0em;
 }
+
+/* portfolio
+=======================*/
+
+.photo-details {
+	margin: 3em 0 0;
+}
