@@ -495,3 +495,21 @@ footer {
 .photo-details {
 	margin: 3em 0 0;
 }
+
+/* home-hero
+=================== */
+
+.contact-hero {
+	background-image: url(../img/tele.jpg);
+	background-size: cover;
+	background-position: center;
+	padding: 10em 0;
+	color: #FFF;
+}
+
+@media (min-width: 60rem) {
+	.contact-hero {
+		height: 50vh;
+		padding-top: 35vh;
+	}
+}
